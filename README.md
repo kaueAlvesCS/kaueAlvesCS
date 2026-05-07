@@ -14,7 +14,8 @@
 ---
 
 #### 🔭 Meus Principais Repositórios de Estudo:
-- 🔗 **[CSharp-Fundamentos-Exercicios](https://github.com/SEU_USUARIO/CSharp-Fundamentos-Exercicios)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
+- 🔗 **[CSharp_Studies](https://github.com/SEU_USUARIO/CSharp-Fundamentos-Exercicios)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
+- 🔗 **[CSharp_Studies](https://github.com/SEU_USUARIO/CSharp-Fundamentos-Exercicios)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
 
 ---
 
