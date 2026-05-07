@@ -15,7 +15,6 @@
 
 #### 🔭 Meus Principais Repositórios de Estudo:
 - 🔗 **[CSharp_Studies](https://github.com/kaueAlvesCS/CSharp_Studies)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
-- 🔗 **[CSharp_Studies](https://github.com/SEU_USUARIO/CSharp-Fundamentos-Exercicios)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
 
 ---
 
