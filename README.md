@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Olá! Sou o Kauê Alves Andrade
 
-<!--
-**kaueAlvesCS/kaueAlvesCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Sou um estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. Com uma base técnica em ADS pela ETEC, estou atualmente focado em aprofundar meus conhecimentos no ecossistema C# e .NET, explorando os fundamentos da Programação Orientada a Objetos e construindo projetos de estudo para solidificar meu aprendizado.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 O que estou aprendendo no momento:
+- **C# e .NET:** Lógica, Estruturas de Dados e Fundamentos de POO.
+- **Boas Práticas:** Escrevendo código limpo e organizado.
+- **Git & GitHub:** Versionamento de código e gerenciamento de projetos.
+
+---
+
+#### 🔭 Meus Principais Repositórios de Estudo:
+- 🔗 **[CSharp-Fundamentos-Exercicios](https://github.com/SEU_USUARIO/CSharp-Fundamentos-Exercicios)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
+
+---
+
+#### 📫 Como me encontrar:
+- **LinkedIn:** [Link para o seu LinkedIn]
+- **E-mail:** kauealvesandrade@gmail.com
