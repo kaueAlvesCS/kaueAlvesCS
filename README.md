@@ -1,22 +1,23 @@
-### 👋 Olá! Sou o Kauê Alves Andrade
+### Olá! Sou o Kauê Alves Andrade
 
 <p>
-  Sou um estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. Com uma base técnica em ADS pela ETEC, estou atualmente focado em aprofundar meus conhecimentos no ecossistema C# e .NET, explorando os fundamentos da Programação Orientada a Objetos e construindo projetos de estudo para solidificar meu aprendizado.
+  Sou um estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. Com uma base técnica em ADS pela ETEC, estou focado em aprofundar meus conhecimentos no ecossistema C# e .NET, aplicando os princípios da Programação Orientada a Objetos em projetos de estudo para solidificar meu desenvolvimento.
 </p>
 
+-----------
+
+#### O que estou focando no momento:
+- **C# e .NET:** Da lógica de programação aos fundamentos de Programação Orientada a Objetos (POO).
+- **Boas Práticas:** Foco em escrever código limpo, legível e organizado.
+- **Git & GitHub:** Utilizando para versionamento de código e documentação do meu progresso.
+- **Projetos interdiscplinares:** Aplicando conceitos teóricos em projetos práticos, tanto de estudo quanto acadêmicos.
 ---
 
-#### 🌱 O que estou aprendendo no momento:
-- **C# e .NET:** Lógica, Estruturas de Dados e Fundamentos de POO.
-- **Boas Práticas:** Escrevendo código limpo e organizado.
-- **Git & GitHub:** Versionamento de código e gerenciamento de projetos.
-
----
-
-#### 🔭 Meus Principais Repositórios de Estudo:
+#### Meus Principais Repositórios de Estudo:
 - 🔗 **[CSharp_Studies](https://github.com/kaueAlvesCS/CSharp_Studies)**: Minha jornada de aprendizado em C#, desde a lógica básica até os princípios de POO.
+- 🔗 **[Projetos](https://github.com/kaueAlvesCS/Projetos)**: Projetos autonômos e também desenvolvidos na faculdade.
 
----
+-----------
 
 #### 📫 Como me encontrar:
 - **LinkedIn:** www.linkedin.com/in/kauê-alves-andrade-786515386
