@@ -19,6 +19,6 @@
 
 -----------
 
-#### 📫 Como me encontrar:
+#### Como me encontrar:
 - **LinkedIn:** www.linkedin.com/in/kauê-alves-andrade-786515386
 - **E-mail:** kauealvesandrade@gmail.com
